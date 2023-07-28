@@ -1,0 +1,42 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titolo-principale {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+
+.menu {
+    color: rgb(255, 238, 1);
+    font-size: 20px;
+}
+
+.recipe {
+    color: rgb(67, 182, 0);
+    font-size: 30px;
+    text-align: center;
+}
+
+.image {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    color: darkgreen;
+}
+
+/* ul {
+    text-align: center;
+}
+
+lista-centrale {
+    display: inline-block;
+} */
