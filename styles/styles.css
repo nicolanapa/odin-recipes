@@ -18,6 +18,7 @@
     color: rgb(67, 182, 0);
     font-size: 30px;
     text-align: center;
+    margin: -25px auto 15px auto;
 }
 
 .image {
@@ -32,7 +33,13 @@
 h3 {
     text-align: center;
     color: darkgreen;
-    border: 2px solid green;
-    margin-top: 30px;
-    margin-bottom: 5px;
+    border: 6px #0921036e;
+    border-top-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: inset;
+    border-right-style: inset;
+    margin-top: 20px;
+    margin-bottom: -5px;
+    padding: 8px 0px 8px 0px;
+    border-radius: 14px;
 }
