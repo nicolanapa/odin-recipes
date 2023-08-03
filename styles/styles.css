@@ -1,5 +1,6 @@
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
 #titolo-principale {
@@ -31,4 +32,7 @@
 h3 {
     text-align: center;
     color: darkgreen;
+    border: 2px solid green;
+    margin-top: 30px;
+    margin-bottom: 5px;
 }
