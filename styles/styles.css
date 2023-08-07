@@ -4,9 +4,57 @@
 }
 
 #titolo-principale {
-    color: red;
+    color: rgb(174, 255, 34);
     font-size: 30px;
     text-align: center;
+    border: 5px solid red;
+    display: inline-block;
+    margin-left: 600px;
+    margin-bottom: -20px;
+    background: rgb(30,0,112);
+    background: linear-gradient(227deg, 
+    rgba(30,0,112,1) 11%, rgba(60,41,214,1) 21%, 
+    rgba(22,52,129,1) 51%, rgba(13,61,114,1) 86%, 
+    rgba(1,32,19,1) 100%);
+    padding: 20px 30px;
+}
+
+#desc-prin {
+    margin: 15px 0 40px 410px;
+    border: 3px solid red;
+    border-radius: 20px;
+    display: inline-block;
+    background: linear-gradient(227deg, 
+    rgba(30,0,112,1) 11%, rgba(60,41,214,1) 21%, 
+    rgba(22,52,129,1) 51%, rgba(13,61,114,1) 86%, 
+    rgba(1,32,19,1) 100%);
+    color: rgb(0, 255, 0);
+    padding: 20px 40px;
+}
+
+.reci-list {
+    font-size: 25px;
+    
+}
+
+.liste {
+    margin: -10px 0 10px 440px;
+    list-style: none;
+    border-bottom: 6px solid red;
+    border-left: 5px solid red;
+    display: inline-block;
+}
+
+.img-tir {
+    margin-left: 267px;
+}
+
+.img-von {
+    margin-left: 100px;
+}
+
+.img-pol {
+    margin-left: 143px;
 }
 
 .menu {
